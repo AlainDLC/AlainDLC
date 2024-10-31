@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alain DLC</h1>
-<h3 align="center">A passionate frontend developer from Sweden</h3>
+<h1 align="center">Alain DLC</h1>
+<h3 align="center">Fullstack-developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaindlc" alt="alaindlc" /></a> </p>
 
