@@ -1,7 +1,6 @@
 
 
-![Alt text of the image](https://github.com/user-attachments/assets/f9fcf9d3-a50f-4aa2-b4c2-a6e4e5e00a79)
-
+![Alt text of the image](https://github.com/user-attachments/assets/17a7273d-cd0d-4ac9-ab5b-cd550901bc6d)
 
 
 
