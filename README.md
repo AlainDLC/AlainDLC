@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaindlc&show_icons=true&locale=en&layout=compact" alt="alaindlc" /></p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alaindlc&theme=dark)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaindlc&show_icons=true&locale=en" alt="alaindlc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaindlc&theme=dark" alt="alaindlc" /></p>
